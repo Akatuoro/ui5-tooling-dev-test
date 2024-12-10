@@ -1,0 +1,8 @@
+{
+    "name": "ws2a",
+    "version": "1.0.0",
+    "dependencies": {
+        "hdb": "^0",
+        "svelte": "^5"
+    }
+}
