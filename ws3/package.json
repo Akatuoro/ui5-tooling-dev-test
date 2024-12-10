@@ -1,10 +1,13 @@
 {
-    "name": "ws2",
+    "name": "ws3",
     "version": "1.0.0",
     "scripts": {
         "clean": "rm -Rdf node_modules package-lock.json"
     },
+    "dependencies": {
+        "svelte": "^5"
+    },
     "workspaces": [
-        "ws2a"
+        "ws3a"
     ]
 }

@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "workspaces": [
-    "cap-sflight"
+    "cap-sflight",
+    "ws2",
+    "ws3"
   ]
 }
